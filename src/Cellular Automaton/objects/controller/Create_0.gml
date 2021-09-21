@@ -154,7 +154,7 @@ function __cell() constructor{
 	}
 	
 	self.update = function (_neighbours_count) {
-		// @function __cell.update(_x, _y)
+		// @function __cell.update(_neighbours_count)
 		// @description Function that updates cell.
 		
 		// Updating state.
